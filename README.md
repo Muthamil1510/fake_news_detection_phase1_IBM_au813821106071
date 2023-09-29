@@ -2,8 +2,4 @@
 Fake News Detection Using NLP phase 1 project submission 
 Name: Muthamil S
 
-Team Members Name:
-Muthamil S
-Shanalin J
-Swetha S
-Priyanka K
+
