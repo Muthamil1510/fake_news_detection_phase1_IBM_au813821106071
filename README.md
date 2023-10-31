@@ -147,4 +147,7 @@ pip install notebook
 ## Conclusion
 
 The passive-aggressive classifier performed best here and gave an accuracy of 93.12%. We can print a confusion matrix to get an overview of the number of true and false positives and negatives. fake news detection techniques can be divided into style- and content-based or fact-checking techniques.  It is often assumed that poor writing (poor spelling, poor punctuation, limited vocabulary, overused terminology, incorrect grammar, etc.) is a sure sign of fake news.  More than ever, this is the case  when a machine's opinion must be supported by clear and  fully verifiable indications on which to   base its decisions, within the events have been  verified and the competent authority determines the authenticity of each event. Collecting  data once  will not be enough given the rapid spread of information in today's connected world and the number of articles produced.  I hope this was helpful to you. You can comment in the comments section for any questions.
+## Contact details
+Email id: saravananmuthamil@gmail.com
+
 
